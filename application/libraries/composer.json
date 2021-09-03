@@ -1,0 +1,6 @@
+{
+    "require": {
+        "zendtech/ibmitoolkit": "^1.9",
+        "firebase/php-jwt": "^5.4"
+    }
+}
